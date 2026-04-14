@@ -44,12 +44,3 @@ Se recomienda encarecidamente trabajar dentro de un entorno virtual. Para este p
 ```bash
 source 8S21/bin/activate  # O tu entorno virtual correspondiente
 pip install RPi.GPIO numpy
-
-### 2. Guardar el progreso
-* Baja a **"Commit changes"**.
-* Escribe: `Agregando documentación de la Práctica 2 - Semáforo`.
-* Dale al botón verde.
-
-**Nota para tu equipo:** Si quieres que el profe vea que otros también participaron, diles que uno de ellos suba el archivo de código `p2.py` dentro de esa misma carpeta `P2semaforo`.
-
-¿Me pasas la tercera captura cuando estés listo?
